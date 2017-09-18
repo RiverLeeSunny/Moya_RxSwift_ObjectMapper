@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-5 47 68 68" style="enable-background:new -5 47 68 68;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#98989A;}
+</style>
+<title>phone</title>
+<desc>Created with Sketch.</desc>
+<g id="phone">
+	<g id="Group-Copy" transform="translate(21.000000, 15.000000)">
+		<g>
+			<path class="st0" d="M16,48H0c-2.8,0-5,2.2-5,5v28c0,2.8,2.2,5,5,5h16c2.8,0,5-2.2,5-5V53C21,50.2,18.8,48,16,48z M19.5,80.5
+				c0,2.2-1.8,4-4,4h-15c-2.2,0-4-1.8-4-4v-27c0-2.2,1.8-4,4-4h15c2.2,0,4,1.8,4,4V80.5z"/>
+		</g>
+		<g>
+			<path class="st0" d="M-5,54v24h26V54H-5z M19.5,76.5h-23v-21h23V76.5z"/>
+		</g>
+		<circle id="Oval" class="st0" cx="8.4" cy="81.8" r="1.8"/>
+	</g>
+</g>
+</svg>
